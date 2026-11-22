@@ -4,7 +4,7 @@ title: ControlHub privacy policy
 
 # ControlHub privacy policy
 
-**Effective date:** {{EFFECTIVE_DATE}}
+**Effective date:** 22/11/2026
 
 ControlHub is an Android app that adds a short pause to endless scrolling in apps you choose,
 such as YouTube. This policy explains what the app accesses, what it does with it, and what it
@@ -13,8 +13,8 @@ it does happens on your phone.**
 
 ## Who makes ControlHub
 
-ControlHub is made by an independent developer, {{DEVELOPER_NAME}}. You can reach them at
-{{CONTACT_EMAIL}}.
+ControlHub is made by an independent developer, Maxime0990. You can reach them at
+maximekaufman90@gmail.com.
 
 ## The Accessibility Service
 
@@ -76,4 +76,4 @@ effective date, and the explanation in the app will change to match.
 
 ## Contact
 
-Questions about this policy: {{CONTACT_EMAIL}}.
+Questions about this policy: maximekaufman90@gmail.com.
